@@ -20,3 +20,30 @@ https://www.openprinting.org/printers/manufacturer/Minolta/
 #### TV karta - avermedia a16d - linux
 
 https://www.linuxtv.org/wiki/index.php/AVerMedia_AVerTV_Hybrid%2BFM_PCI_%28A16D%29
+
+
+## LifeStyle  
+### \#   
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+| | | 
+
+### A  
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+| | | 
+
+### B  
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Banya](https://github.com/forezp/banya) | An openresource  for Douban API with NetEase Music UI. | Java |
+
+### C  
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+| | | 
+
+### D  
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+| | | 
