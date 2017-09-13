@@ -2,7 +2,7 @@
 
 #### apc cyber shot 500 
 
- - návod v příloze
+ - návod v příloze v češtině
  
 #### baterie  RBC30 pro cyber shot 500:
 
