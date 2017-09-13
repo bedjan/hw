@@ -3,6 +3,10 @@
 #### apc cyber shot 500 
 
  - návod v příloze
+ 
+#### baterie  RBC30 pro cyber shot 500:
+
+https://www.avacom.cz/modely/zalozni-zdroje-ups/apc/cyberfort-500
 
 ##### apc cyber shot 500 na google: 
 
